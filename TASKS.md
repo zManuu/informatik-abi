@@ -131,3 +131,24 @@ Erstelle eine Funktion `createPassword`. Der Benutzer gibt die Länge des Passwo
 Erstelle eine Funktion `createUUID`. Eine UUID sieht wie folgt aus:  
 `9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d`  
 `1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed`
+
+## Level 5
+
+***Nr. 21***
+
+Der Benutzer gibt die Anzahl der Zeilen für die folgende Grafik ein:
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+***Nr. 22***
+
+Erstelle eine Liste wie in Nr. 12. Finde den größten Interval, in welchem die Zahlen unter 30 sind. Beispiel: `44, 32, 29, 22, 32, 29, 20, 11, 26, 26, 65 => 5`
+
+***Nr. 23***
+
+Lass den Benutzer eine Liste von Zahlen eingeben, getrennt von einem Komma. Erstelle eine Liste, die alle Zahlen beinhaltet.
