@@ -62,3 +62,72 @@ Lass den Benutzer Alter, Geburtsjahr und Gewicht eingeben. Berechne eine Statist
    Beim Programmieren schreibt man Kommazahlen mit Punkt statt mit Komma. 10,5 muss also zu 10.5 geändert werden, damit die Formel berechnet werden kann.
 </details>
 <br>
+
+## Level 3
+
+***Nr. 11***
+
+Eine Schlange klettert einen Brunnen hoch. Jeden Tag schafft sie 6 Meter. In der Nacht rutscht sie jedoch wieder 2 Meter hinunter. Gib Tage und Nächte aus, die die Schlange im Brunnen war. Die Brunnen-Tiefe soll der Benutzer eingeben können.
+
+<details>
+  <summary>Tipp</summary>
+   Nutze eine While-Schleife
+</details>
+<br>
+
+***Nr. 12***
+
+Erstelle eine Liste aus Zufallszahlen zwischen 10 und 100 mit 50 Elementen. Die Elemente dürfen nicht doppelt vorkommen.
+
+<details>
+  <summary>Tipp</summary>
+   Nutze eine While-Schleife
+</details>
+<br>
+
+***Nr. 13***
+
+Erstelle eine Funktion `roll` die eine Zahl zwischen 1 und 6 zurückgibt, wie ein Würfel. Simuliere 10 Runden, gib das jeweilige Ergebnis aus, den Durchschnitt und die Summe aller Runden.
+
+***Nr. 14***
+
+Erstelle eine Funktion `sign`, die als Parameter eine String-Liste übernimmt. Modifiziere die übergebene Liste so, dass an jedes Element das Zeichen `✔` angefügt wird.
+
+***Nr. 15***
+
+Erstelle eine Funktion `printList`, die als Parameter eine Liste übernimmt. Geb die Elemente in folgendem Format wieder:
+```
+- element 1
+- element 2
+- ...
+```
+
+## Level 4
+
+***Nr. 16***
+
+Erstelle eine Funktion `encrypt`, die als Parameter einen String und eine Zahl übernimmt. Verschlüssle den übergebenen String mit dem Caesar-Chiffre und gib ihn zurück.
+
+<details>
+  <summary>Tipp</summary>
+    Um den ASCII-Wert eines Zeichens zu bekommen, kannst du in Python ord(zeichen) benutzen. Diese Zahl kannst du addieren. Um von einer Zahl zwischen 1 und 256 das zugehörige ASCII-Zeichen zu bekommen, benutze chr(zahl)
+</details>
+<br>
+
+***Nr. 17***
+
+Erstelle eine Funktion `decrypt`, die die Funktion in Nr. 16 rückgänig macht.
+
+***Nr. 18***
+
+Erstelle eine Funktion `encrypt2`, die zwei Strings übernimmt und das Vignère-Chiffre anwendet. Schreibe auch eine zugehörige Funktion `decrypt2`.
+
+***Nr. 19***
+
+Erstelle eine Funktion `createPassword`. Der Benutzer gibt die Länge des Passworts an. Passwörter sollen alle ASCII-Zeichen beinhalten.
+
+***Nr. 20***
+
+Erstelle eine Funktion `createUUID`. Eine UUID sieht wie folgt aus:  
+`9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d`  
+`1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed`
