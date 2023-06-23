@@ -18,7 +18,7 @@ Der Benutzer soll zwei Zahlen eingeben: `min` und `max`. Erstelle eine Liste, di
 
 ***Nr. 3***
 
-Erstelle eine Liste wie nach Nr 2. Finde das Minimun und das Maximum der Liste und gebe die Werte wie folgt aus: `Liste: ... Min: ... Max: ...`
+Erstelle eine Liste wie nach Nr 2. Gib deren Durchschnitt aus.
 
 ***Nr. 4***
 
