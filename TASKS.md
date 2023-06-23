@@ -50,7 +50,7 @@ Erstelle eine Liste wie bei Nr.5. Gebe alle Namen aus, die ein E im Namen haben.
 
 ***Nr. 8***
 
-Erstelle eine Liste wie bei Nr.5. Gebe alle Namen aus, die ein E aber und kein A im Namen haben.
+Erstelle eine Liste wie bei Nr.5. Gebe alle Namen aus, die ein E und kein A im Namen haben.
 
 ***Nr. 9***
 
